@@ -1,2 +1,2 @@
 # symphony-example-1
-Symphony PHP example project, based on the book.
+Symphony PHP guestbook project, based on the book
